@@ -1,5 +1,7 @@
 # Task 1 — Walking an Application
+Nessuna risposta richiesta.
 # Task 2 — Exploring The Website
+Nessuna risposta richiesta.
 # Task 3 — Viewing The Page Source
 **What is the flag from the HTML comment?**<br>
 La flag è `THM{HTML_COMMENTS_ARE_DANGEROUS}` e si trova alla pagina `/new-home-beta` menzionata nel commento leggibile dal codice sorgente della homepage: `<!-- This page is temporary while we work on the new homepage @ /new-home-beta -->`. <br>
