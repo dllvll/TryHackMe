@@ -4,4 +4,4 @@ Una repo dedicata alla raccolta delle note su modules e rooms di [TryHackMe](htt
 | Room  | Status |
 | ------------- | ------------- |
 | [Walking An Application](https://github.com/dllvll/TryHackMe/blob/main/module/intro-to-web-hacking/Walking%20An%20Application.md) | ✅ |
-| [Content Discovery](https://github.com/dllvll/TryHackMe/blob/main/module/intro-to-web-hacking/Content%20Discovery.md) | 3/12 |
+| [Content Discovery](https://github.com/dllvll/TryHackMe/blob/main/module/intro-to-web-hacking/Content%20Discovery.md) | ✅ |
